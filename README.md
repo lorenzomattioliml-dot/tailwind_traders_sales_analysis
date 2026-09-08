@@ -155,9 +155,9 @@ Power BI Desktop, Power Query (M), DAX, Python (pandas), Excel, Power BI Service
 
 ## Explore the Project
 
-- Live interactive report: [add your Power BI Service Publish to Web link]
-- Executive Dashboard screenshot: see assets/dashboard-mobile.png or the Power BI Service workspace
-- One-page insights summary (PDF): [add your executive summary link]
+- Live interactive report: https://app.powerbi.com/reportEmbed?reportId=0b01cc9a-3b98-4318-8a23-5b790acb5a2a&autoAuth=true&ctid=e1fefac0-c74e-4349-ba10-faed21ee1a39
+- [Tailwind.Traders.Report.pdf](https://github.com/user-attachments/files/31960823/Tailwind.Traders.Report.pdf)
+
 
 ---
 
