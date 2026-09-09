@@ -93,9 +93,9 @@ The report contains four pages:
 
 
 Design elements applied consistently across all pages:
-- A custom color theme (five to seven colors, no default Power BI styling)
-- In-page text callouts stating the key finding directly on the relevant chart, rather than leaving the reader to infer it
-- A page navigation bar with an active-page indicator, present on every page
+- A custom color theme
+- In-page text callouts
+- A page navigation bar, present on every page
 
 ---
 
@@ -160,15 +160,3 @@ Power BI Desktop, Power Query (M), DAX, Python (pandas), Excel, Power BI Service
 
 
 ---
-
-## Repository Structure
-
-```
-├── data/                          Source Excel files (Sales, Purchases, Countries)
-├── Tailwind Traders Report.pbix
-├── assets/                        Screenshots used in this README
-│   ├── dashboard-overview.png
-│   ├── model-view.png
-│   └── mobile-layout.png
-└── README.md
-```
